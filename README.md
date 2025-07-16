@@ -11,6 +11,9 @@ Fecha: [16/07/2025]
 
 Profesor: Ing. Pablo Torres
 
+![alt text](image.png)
+![alt text](image-2.png)
+
 # 🧭 Maze Path Finder
 
 Este proyecto implementa un algoritmo de resolución de laberintos en Java utilizando búsqueda recursiva en las cuatro direcciones (arriba, abajo, izquierda, derecha). El laberinto se representa como una matriz booleana y se imprime visualmente mostrando el recorrido encontrado.
@@ -61,5 +64,3 @@ Laberinto con ruta:
  -  x  *  * 
  -  x  x  x 
 
-![alt text](image.png)
-![alt text](image-2.png)
